@@ -1,3 +1,18 @@
+body {
+  "Lucida Grande", "segoe UI", "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", Meiryo, Verdana, Arial, sans-serif;
+}
+
+.we-are {
+  font-size: 3.5em;
+  font-weight: bold;
+  margin-bottom: 4em;
+  line-height: 1.1em;
+}
+.rockstar-image {
+  width: 100%;
+  margin-bottom: 20em;
+}
+
 .google-maps {
   position: relative;
   padding-bottom: 250px;
