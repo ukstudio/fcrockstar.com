@@ -33,6 +33,11 @@ h1,h2,h3,ul,li,a,p,form{
 	margin:40px 0px 0px 0px;
 	}
 
+.banner_inq img{
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+
 .logo_wrp{
 	margin:0px 0px 0px 25px;
 	padding:20px 0px 0px 0px;}
