@@ -37,8 +37,25 @@ h1,h2,h3,ul,li,a,p,form{
 	margin:0px 0px 0px 25px;
 	padding:20px 0px 0px 0px;}
 
+.banner_inq{
+	position:relative;
+}
+
 .banner_inq img{
 	display:block;
+}
+
+.banner_inq .fb-like{
+	position:absolute;
+	right:10px;
+	top:10px;
+}
+.banner_inq .fb-like{
+	right:396px;
+	top:296px;
+	-webkit-transform:rotateZ(-8deg);
+	-moz-transform:rotateZ(-8deg);
+	transform:rotateZ(-8deg);
 }
 	
 .pro_wrp{
@@ -259,5 +276,4 @@ h1,h2,h3,ul,li,a,p,form{
 .social ul li a img{
 	display:block;
 }
-	
-					
+
