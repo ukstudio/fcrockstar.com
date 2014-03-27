@@ -159,15 +159,15 @@ h1,h2,h3,ul,li,a,p,form{
 	width:190px;}
 	
 																		
-.fotter_wrp{
+.footer_wrp{
 	background:#ededed;
 	height:275px;
-	margin:35px 0px 0px 0px;
+	margin:0;
 	border-top:solid 2px #bababa;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;}
 	
-.fotter_inq{
+.footer_inq{
 	margin:15px 30px 0px 30px;
 	}
 	
@@ -211,7 +211,7 @@ h1,h2,h3,ul,li,a,p,form{
 	}
 	
 .copy_top{
-	background-image:url(../images/fotterbg_07.jpg);
+	background-image:url(../images/footerbg_07.jpg);
 	background-repeat:repeat-x;
 	height:5px;
 	}	
