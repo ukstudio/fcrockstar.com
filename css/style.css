@@ -313,16 +313,6 @@ h1,h2,h3,ul,li,a,p,form{
 }
 
 
-
-
-.fb-like{
-  width: 100px;
-  height: 20px;
-  background: red;
-}
-
-
-
 @media (max-width: 1078px) {
 
 .main_wrapper{
