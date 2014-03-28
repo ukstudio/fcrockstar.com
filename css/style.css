@@ -313,6 +313,16 @@ h1,h2,h3,ul,li,a,p,form{
 }
 
 
+
+
+.fb-like{
+  width: 100px;
+  height: 20px;
+  background: red;
+}
+
+
+
 @media (max-width: 1078px) {
 
 .main_wrapper{
@@ -320,6 +330,22 @@ h1,h2,h3,ul,li,a,p,form{
 }
 .wrp_inq{
   margin: 0 40px;
+}
+.banner_inq{
+  overflow: hidden;
+}
+.banner_inq img{
+  float: left;
+}
+.banner_inq .fb-like{
+  margin-top: -35px;
+  margin-right: 20px;
+  position: static;
+  float: right;
+  z-index: 100;
+  -webkit-transform:none;
+  -moz-transform:none;
+  transform:none;
 }
 
 } /* 1078px */
