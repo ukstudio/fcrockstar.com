@@ -312,3 +312,42 @@ h1,h2,h3,ul,li,a,p,form{
   display:block;
 }
 
+
+@media (max-width: 1078px) {
+
+.main_wrapper{
+  width: 100%;
+}
+.wrp_inq{
+  margin: 0 40px;
+}
+
+} /* 1078px */
+
+
+@media (max-width: 640px) {
+
+.main_wrapper{
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+.wrp_inq{
+  margin-right: 13px;
+  margin-left: 13px;
+}
+
+} /* 640px */
+
+
+@media (max-width: 480px) {
+
+.main_wrapper{
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+.wrp_inq{
+  margin-right: 7px;
+  margin-left: 7px;
+}
+
+} /* 480px */
