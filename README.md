@@ -22,3 +22,7 @@ Master branch reflect http://fcrockstar.com/
 ## Contributor
 
 When the pull request has been merged, We well give contributor authority.
+
+## Chat
+
+Use [idobata.io](http://idobata.io). Get guest account from [this invitation url](https://idobata.io/organizations/fcrockstar/rooms/dev/join_request/9aeb782f-a7e4-4dd4-a0e4-c0052c26d0dd).
